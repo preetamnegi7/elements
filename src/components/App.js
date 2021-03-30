@@ -84,11 +84,7 @@ A periodic table is still used today to organize the elements. You can see a sim
                   </div>
                   <div>
                     {summary}
-<<<<<<< HEAD
                     <a target="_blank" rel="noopener noreferrer" href={source}>
-=======
-                   <a target="_blank" rel="noopener noreferrer" href={source}>
->>>>>>> 3cd26ade37d8842c47681c592875c452456371a9
                       Source
                     </a>
                   </div>
